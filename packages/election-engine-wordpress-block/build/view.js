@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=window.React;console.log("Hello World! (from create-block-dm-election-block block)"),(0,e.createElement)("h1",null,"Test")})();
