@@ -11,5 +11,5 @@ cd ../../..
 mkdir -p packages/election-engine-wordpress-block
 cp -r src/packages/election-engine-wordpress-block/build packages/election-engine-wordpress-block
 cp -r src/packages/election-engine-wordpress-block/php packages/election-engine-wordpress-block
-cp -r src/packages/election-engine-wordpress-block/svelte packages/election-engine-wordpress-block
+cp -r src/packages/election-engine-wordpress-block/dist packages/election-engine-wordpress-block
 rm -rf src
