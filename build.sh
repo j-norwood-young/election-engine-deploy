@@ -1,5 +1,6 @@
 #!/bin/sh
-
+rm -rf packages
+rm -rf src
 git clone git@github.com:j-norwood-young/dm-elections-dashboard.git src
 cp src/readme.txt .
 cp src/election-engine.php .
